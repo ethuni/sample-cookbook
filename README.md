@@ -3,3 +3,5 @@
 Re-creation of clowns/bears from Chef Fundamentals
 
 ChefConf 2015 New features!
+
+Chef is good!
