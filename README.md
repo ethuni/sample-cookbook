@@ -9,3 +9,5 @@ Chef is good!
 Testing syntax using knife!
 
 How's it going?  Real good then.
+
+Syntax Check
