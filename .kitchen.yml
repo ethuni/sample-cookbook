@@ -7,7 +7,10 @@ provisioner:
   require_chef_omnibus: 12.1.1
 
 platforms:
-  - name: centos-6.5
+  - name: centos-7.0
+    driver_config:
+      network:
+        - ["forwarded_port", {guest: 81, host: 8081}]
 
 suites:
   - name: default
