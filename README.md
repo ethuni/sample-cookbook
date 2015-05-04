@@ -9,3 +9,5 @@ Chef is good!
 Testing syntax using knife!
 
 Syntax Check
+
+Updating readme
